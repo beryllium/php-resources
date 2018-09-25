@@ -17,3 +17,4 @@
   * [PHPChunkit](https://github.com/jwage/phpchunkit) (provides parallel test execution)
 * [SimpleTest](http://www.simpletest.org/)
 * [Selenium](http://selenium-rc.openqa.org/)
+* [Symfony Panther](https://github.com/symfony/panther)
